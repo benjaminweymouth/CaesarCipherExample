@@ -1,6 +1,4 @@
-# Student Name: Benjamin Weymouth
-# Student Number: 301026275
-# Lab Assignment 1: Caesar Cipher. (Encrypt and Decrypt a String)
+#1: Caesar Cipher. (Encrypt and Decrypt a String)
 
 #encrypt operation
 # The string to be encrypted:
